@@ -312,7 +312,7 @@ const Task3 = () => {
   </div>
   </div>
   <div className='ty'>
-    <div className="gallery-item">
+    <div className="gallery-itm">
     <img src={img16} className="last"/>
 <div class="overlay">
         <div class="title-box">
